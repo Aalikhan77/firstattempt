@@ -17,3 +17,16 @@ shsift : x enter
 git status # tocheck new files
 git add #to add files to stage area
 git commit -m "<message to remember the change  you made>"
+
+
+++++++++++++
+
+git remote -v
+git remote add origin https://github.com/Aalikhan77/firstattempt.git
+
+git checkout -M master #to switch braanch to "maaster"
+git push -u origin master #to push thhe local ggit filies to  git hub 'masteerr" braanchc
+
+
+
+
