@@ -1,0 +1,19 @@
+Test file
+
+git --version # to check if Git is installed
+git init # To create git repository
+git status
+git init
+git config user.name "<name>"
+git config user.email "<mail id>"
+#can be edited using following command
+git config --global --edit
+#  to exit from vim editor use this command
+shift + : wq enter
+shsift : x enter
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+git status # tocheck new files
+git add #to add files to stage area
+git commit -m "<message to remember the change  you made>"
